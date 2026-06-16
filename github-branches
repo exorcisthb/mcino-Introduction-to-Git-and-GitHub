@@ -1,2 +1,8 @@
-Task 9 - GitHub branches (this file will be updated with the output of
-`git branch` showing all branches in the repository).
+Task 9 - GitHub branches
+
+Command: git branch -a
+Output:
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
