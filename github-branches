@@ -1,8 +1,0 @@
-Task 9 - GitHub branches
-
-Command: git branch -a
-Output:
-  bug-fix-typo
-* main
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/main
